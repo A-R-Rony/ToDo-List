@@ -1,4 +1,4 @@
-#This ToDo List is created using HTML,CSS and Typescript
+> This ToDo List is created using HTML,CSS and Typescript
 
 ## Site Live at : https://a-r-rony.github.io/ToDo-List/
 ## Features
